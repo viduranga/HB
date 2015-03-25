@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="Javac" />
+    <excludeFromCompile>
+      <directory url="file://$USER_HOME$/Documents/Development/flink-ml/flink-quickstart/flink-quickstart-java/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/Documents/Development/flink-ml/flink-quickstart/flink-quickstart-scala/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
@@ -17,7 +21,81 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="flink-avro" />
+        <module name="flink-clients" />
+        <module name="flink-compiler" />
+        <module name="flink-contrib" />
+        <module name="flink-core" />
+        <module name="flink-dist" />
+        <module name="flink-expressions" />
+        <module name="flink-gelly" />
+        <module name="flink-hadoop-compatibility" />
+        <module name="flink-hbase" />
+        <module name="flink-hcatalog" />
+        <module name="flink-java" />
+        <module name="flink-java-examples" />
+        <module name="flink-java8" />
+        <module name="flink-jdbc" />
+        <module name="flink-quickstart-java" />
+        <module name="flink-quickstart-scala" />
+        <module name="flink-runtime" />
+        <module name="flink-scala" />
+        <module name="flink-scala-examples" />
+        <module name="flink-shaded" />
+        <module name="flink-spargel" />
+        <module name="flink-streaming-connectors" />
+        <module name="flink-streaming-core" />
+        <module name="flink-streaming-examples" />
+        <module name="flink-streaming-scala" />
+        <module name="flink-tachyon" />
+        <module name="flink-test-utils" />
+        <module name="flink-tests" />
+        <module name="flink-yarn" />
+        <module name="flink-yarn-tests" />
+      </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flink-avro" target="1.6" />
+      <module name="flink-clients" target="1.6" />
+      <module name="flink-compiler" target="1.6" />
+      <module name="flink-contrib" target="1.6" />
+      <module name="flink-core" target="1.6" />
+      <module name="flink-dist" target="1.6" />
+      <module name="flink-examples" target="1.6" />
+      <module name="flink-expressions" target="1.6" />
+      <module name="flink-gelly" target="1.6" />
+      <module name="flink-hadoop-compatibility" target="1.6" />
+      <module name="flink-hbase" target="1.6" />
+      <module name="flink-hcatalog" target="1.6" />
+      <module name="flink-java" target="1.6" />
+      <module name="flink-java-examples" target="1.6" />
+      <module name="flink-java8" target="1.8" />
+      <module name="flink-jdbc" target="1.6" />
+      <module name="flink-parent" target="1.6" />
+      <module name="flink-quickstart" target="1.6" />
+      <module name="flink-quickstart-java" target="1.6" />
+      <module name="flink-quickstart-scala" target="1.6" />
+      <module name="flink-runtime" target="1.6" />
+      <module name="flink-scala" target="1.6" />
+      <module name="flink-scala-examples" target="1.6" />
+      <module name="flink-shaded" target="1.6" />
+      <module name="flink-spargel" target="1.6" />
+      <module name="flink-staging" target="1.6" />
+      <module name="flink-streaming-connectors" target="1.6" />
+      <module name="flink-streaming-core" target="1.6" />
+      <module name="flink-streaming-examples" target="1.6" />
+      <module name="flink-streaming-parent" target="1.6" />
+      <module name="flink-streaming-scala" target="1.6" />
+      <module name="flink-tachyon" target="1.6" />
+      <module name="flink-test-utils" target="1.6" />
+      <module name="flink-tests" target="1.6" />
+      <module name="flink-yarn" target="1.6" />
+      <module name="flink-yarn-tests" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-

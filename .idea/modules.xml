@@ -3,7 +3,42 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HB_2.iml" filepath="$PROJECT_DIR$/HB_2.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-avro/flink-avro.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-avro/flink-avro.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-clients/flink-clients.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-clients/flink-clients.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-compiler/flink-compiler.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-compiler/flink-compiler.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-contrib/flink-contrib.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-contrib/flink-contrib.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-core/flink-core.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-core/flink-core.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-dist/flink-dist.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-dist/flink-dist.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-examples/flink-examples.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-examples/flink-examples.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-expressions/flink-expressions.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-expressions/flink-expressions.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-gelly/flink-gelly.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-gelly/flink-gelly.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-hadoop-compatibility/flink-hadoop-compatibility.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-hadoop-compatibility/flink-hadoop-compatibility.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-hbase/flink-hbase.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-hbase/flink-hbase.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-hcatalog/flink-hcatalog.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-hcatalog/flink-hcatalog.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-java/flink-java.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-java/flink-java.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-examples/flink-java-examples/flink-java-examples.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-examples/flink-java-examples/flink-java-examples.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-java8/flink-java8.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-java8/flink-java8.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-jdbc/flink-jdbc.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-jdbc/flink-jdbc.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-parent.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-parent.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-quickstart/flink-quickstart.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-quickstart/flink-quickstart.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-quickstart/flink-quickstart-java/flink-quickstart-java.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-quickstart/flink-quickstart-java/flink-quickstart-java.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-quickstart/flink-quickstart-scala/flink-quickstart-scala.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-quickstart/flink-quickstart-scala/flink-quickstart-scala.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-runtime/flink-runtime.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-runtime/flink-runtime.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-scala/flink-scala.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-scala/flink-scala.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-examples/flink-scala-examples/flink-scala-examples.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-examples/flink-scala-examples/flink-scala-examples.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-shaded/flink-shaded.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-shaded/flink-shaded.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-spargel/flink-spargel.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-spargel/flink-spargel.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-staging.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-staging.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-connectors/flink-streaming-connectors.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-connectors/flink-streaming-connectors.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-core/flink-streaming-core.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-core/flink-streaming-core.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-examples/flink-streaming-examples.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-examples/flink-streaming-examples.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-parent.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-parent.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-scala/flink-streaming-scala.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-scala/flink-streaming-scala.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-tachyon/flink-tachyon.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-tachyon/flink-tachyon.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-test-utils/flink-test-utils.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-test-utils/flink-test-utils.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-tests/flink-tests.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-tests/flink-tests.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-yarn/flink-yarn.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-yarn/flink-yarn.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Development/flink-ml/flink-yarn-tests/flink-yarn-tests.iml" filepath="$USER_HOME$/Documents/Development/flink-ml/flink-yarn-tests/flink-yarn-tests.iml" />
     </modules>
   </component>
 </project>
-

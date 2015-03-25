@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-clients" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-compiler" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-contrib" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-core" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-dist" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-examples" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-examples/flink-java-examples" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-examples/flink-scala-examples" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-java8" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-quickstart" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-quickstart/flink-quickstart-java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-quickstart/flink-quickstart-scala" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-runtime" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-scala" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-shaded" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-avro" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-expressions" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-gelly" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-hadoop-compatibility" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-hbase" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-hcatalog" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-jdbc" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-spargel" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-connectors" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-core" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-examples" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-streaming/flink-streaming-scala" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-staging/flink-tachyon" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-test-utils" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-tests" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-yarn" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/Development/flink-ml/flink-yarn-tests" charset="UTF-8" />
+  </component>
 </project>
-
